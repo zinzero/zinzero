@@ -1,6 +1,5 @@
 # JinYoung Jang
 
----
 
 ## 🎓 Education
 
