@@ -1,13 +1,10 @@
 # JinYoung Jang
 
-
-## 🎓 Education
+### 🎓 Education
 
 - B.S. - Chungnam National University (2021.03 ~ )
 
-## 🎓 Education
-
-## 🤔 Interest
+### 🤔 Interest
 
 - Digital Forensic
     - APFS(Apple File System) analysis
