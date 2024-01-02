@@ -4,12 +4,15 @@
 
 - B.S. - Chungnam National University (2021.03 ~ )
 
+### 💼 Working At
+
+- Undergraduate Interns at Cyber Security Laboratory(Chungnam National University)
+    - 2024.01 ~
+ 
 ### 🤔 My Interest
 
 - Digital Forensic
-    - APFS(Apple File System) analysis
 - SystemHacking
-    - studying kernel and Firmware
 - Reverse Engineering
 
 <!--
